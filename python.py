@@ -1,1 +1,1 @@
-print("Remote Master")
+print("Local Master")
